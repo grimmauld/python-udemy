@@ -1,2 +1,5 @@
-# python-udemy
-Udemy Python course files
+# Python Course
+
+Repository to track files created during the following udemy course:
+
+https://www.udemy.com/course/complete-python-bootcamp/
